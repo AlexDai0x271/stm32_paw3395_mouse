@@ -2,9 +2,6 @@
 
 ## 一、项目简介
 
-B站演示视频：[基于stm32制作的PAW3395鼠标开源介绍_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BrH9ecEnd/?vd_source=cb3035aabee93b98268db84a2ab962fc)
-
-github开源地址：https://github.com/Li-Dongze/stm32_paw3395_mouse
 
 本项目是一款基于stm32f103c8t6单片机制作的有线鼠标，使用的光电传感器为原相paw3395，使用HID协议与电脑通讯，尼龙外壳使用立创三维猴3D打印。
 
